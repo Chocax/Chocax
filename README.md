@@ -12,9 +12,8 @@
 <summary><b>🇨🇴 Leer en español</b></summary>
 <br>
 <p>
-  Soy estudiante de Ingeniería de Sistemas en la <b>Universidad El Bosque</b>, en Bogotá. Lo que más me gusta es el <b>backend</b>: APIs, bases de datos y, últimamente, las <b>redes</b>, que me están llamando mucho la atención mientras me certifico con Cisco.
+  Soy estudiante de Ingeniería de Sistemas en la <b>Universidad El Bosque</b>, en Bogotá. Lo que más me gusta es el <b>backend</b>: APIs, bases de datos y, últimamente, las <b>redes</b>, área en la que me estoy certificando con Cisco.
   También desarrollo y despliego sitios web para negocios reales, desde el código hasta el dominio propio.
-  Y cuando no estoy programando, probablemente estoy armando un cubo Rubik.
 </p>
 </details>
 
@@ -37,13 +36,24 @@
 <br>
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/title-freelance-dark.svg">
+  <img src="assets/title-freelance-light.svg" alt="Work with me / Servicios freelance" width="100%">
+</picture>
+
+<p align="center">
+  <a href="mailto:santipinzonv@gmail.com?subject=Freelance%20website%20inquiry"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/freelance-dark.svg"><img src="assets/freelance-light.svg" alt="Available for freelance: business websites and landing pages, SEO setup, domain and deployment, bilingual sites. Live work: tuucifix.com, fastvisa.lat. Click to get a quote by email." width="100%"></picture></a>
+</p>
+
+<br>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/title-stack-dark.svg">
   <img src="assets/title-stack-light.svg" alt="Toolkit / Tecnologías y herramientas" width="100%">
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
-  <img src="assets/stack-light.svg" alt="Java, Spring Boot, Gradle, Python, PostgreSQL, MySQL, Oracle SQL, Angular, TypeScript, Tailwind CSS, Git, GitHub, Vercel, Claude Code, draw.io" width="100%">
+  <img src="assets/stack-light.svg" alt="Backend: Java, Spring Boot, Gradle, Python. APIs: Swagger, Postman, Bruno. Databases: PostgreSQL, MySQL, Oracle SQL, H2. Frontend: Angular, TypeScript, HTML, CSS, SCSS, Tailwind CSS, npm. Networking: Cisco Packet Tracer, Wireshark, Ubuntu Linux. Deploy: Vercel, GoDaddy, Google Search Console. Dev tools: IntelliJ IDEA, VS Code, Antigravity, Claude Code, Git, GitHub. Diagrams: Mermaid, draw.io" width="100%">
 </picture>
 
 <br><br>
@@ -55,7 +65,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/now-dark.svg">
-  <img src="assets/now-light.svg" alt="Currently learning Cisco Introduction to Networks. Speedcuber. Backend-first. 6th semester of Systems Engineering at Universidad El Bosque. Bilingual: Spanish and English (B2)." width="100%">
+  <img src="assets/now-light.svg" alt="Currently learning Cisco Introduction to Networks (CCNA). Speedcuber: 3x3 sub-20, WCA competitor. Backend-first. 6th semester of Systems Engineering at Universidad El Bosque. Bilingual: Spanish and English (B2)." width="100%">
 </picture>
 
 <br><br>
